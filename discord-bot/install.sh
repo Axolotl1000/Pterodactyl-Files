@@ -1,4 +1,5 @@
-#/bin/sh
+#!/bin/bash
+#!/usr/bin/env bash
 
 mkdir -p /mnt/server
 cd /mnt/server
